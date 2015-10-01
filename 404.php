@@ -13,8 +13,8 @@ get_header(); ?>
 		<div id="content" role="main">
 
 
+			<article id="post-0" class="post error404 not-found addtest addtest2 addtest4 xxxxx">
 
-			<article id="post-0" class="post error404 not-found addtest addtest2 addtest4">
 
 				<header class="entry-header">
 					<h1 class="entry-title"><?php _e( 'This is somewhat embarrassing, isn&rsquo;t it?', 'twentyeleven' ); ?></h1>
