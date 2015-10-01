@@ -13,7 +13,7 @@ get_header(); ?>
 		<div id="content" role="main">
 
 
-			<article id="post-0" class="post error404 not-found addtest addtest2 addtest4">
+			<article id="post-0" class="post error404 not-found addtest addtest2 addtest4 xxxxx">
 
 			
 				<header class="entry-header">
