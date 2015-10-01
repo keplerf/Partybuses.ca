@@ -1,0 +1,35 @@
+ /*****************************************************************************
+    These styles should be at the bottom of `sifr.css`. Make sure that they're
+    only applied for the screen media type!
+    *****************************************************************************/
+    
+    .sIFR-active h1,
+    .sIFR-active h2,
+    .sIFR-active h3,
+    .sIFR-active h4,
+    .sIFR-active h5#pullquote {
+      visibility: hidden;
+      font-family: Verdana;
+    }
+
+    .sIFR-active h1 {
+      padding-bottom: 0;
+    }
+
+    .sIFR-active h2 {
+      font-size: 55px;
+      display: block;
+    }
+
+    .sIFR-active h3 {
+      font-size: 18px;
+    }
+
+    .sIFR-active h4 {
+      font-size: 29px;
+      font-weight: normal;
+    }
+
+    .sIFR-active h5#pullquote {
+      font-size: 24px;
+    }
