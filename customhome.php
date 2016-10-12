@@ -35,7 +35,8 @@ get_header(); ?>
         
         
          <aside class="widget widget_recent_entries col col1 ">
-                <h3 class="widget-title">Specials</h3>
+         <img src="<?php echo get_template_directory_uri(); ?>/images/limousine-rental-special.jpg" alt="Limousine Vancouver special " />
+<!--<h3 class="widget-title">Specials</h3>-->
                 <ul class="coltop">
                 <?php $postslist = get_posts('category=4&numberposts=5&order=DESC&orderby=post_date');
 

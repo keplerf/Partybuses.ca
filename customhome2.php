@@ -149,10 +149,10 @@
     	 	<h3 id="branding">
             	<a href="<?php bloginfo('url'); ?>/" title="Vancouver Party Bus Limo">
                 	<img src="<?php echo get_template_directory_uri(); ?>/images/limo-party-bus-vancouver-logo.png" width="251" height="157" alt="Party Bus Vancouver BC Canada">
-                    <span>Party Bus Vancouver BC Canada </span>
+                    <span>Party Bus Limo Vancouver BC Canada </span>
                 </a>
              </h3>
-             <h3 class="slogan"><strong>Vancouver Party Bus</strong></h3>
+             <h3 class="slogan"><strong>Vancouver Limo Party Bus</strong></h3>
              
              <div class="adressm">
                  <div itemscope itemtype="http://data-vocabulary.org/Organization"> 
@@ -216,8 +216,13 @@
       	<section class="col col3 social">
         <?php get_template_part( 'content-social' ); ?>	
         
-         <aside class="widget widget_recent_entries col col1 ">
-                <h3 class="widget-title coltop">Specials</h3>
+         <aside class="widget widget_recent_entries col col1 " style="margin-right:0;"> <!--<a href="http://partybuses.ca/get-a-quote-party-buses/"><img style="margin:15px auto 0 auto; width:100% " src="<?php/* echo get_template_directory_uri();*/ ?>/images/limousine-rental-special.jpg" alt="Limousine Vancouver special " /></a>
+         <p style="color:#FFF; font-size:8px; text-align:center">
+         *Must mention this website special to receive discount.</br> Online you must enter PROMO CODE: FALL</br>
+*Travel must be completed before December 30, 2015.</br>
+*Based on availability & some conditions may apply.
+         </p>-->
+               <!-- <h3 class="widget-title coltop">Specials</h3>-->
                 <ul>
                 <?php $postslist = get_posts('category=4&numberposts=2&order=DESC&orderby=post_date');
 

@@ -64,6 +64,7 @@ embed,
 object,
 video { 
 	max-width: 100%; 
+	height: auto;
 }
 
 .hide { display: none;  }
@@ -383,6 +384,11 @@ body.home #content{
 	padding: 50px 0px;
 }
 
+#footer_wrapper #footerPaymentIMG  a:hover{
+	
+	background: none;
+}
+
 #cimy_div_id_0 {
 		float: left;
 		margin: 0 auto;
@@ -451,7 +457,7 @@ footer .col1{
 
 
 footer .col2{
-	width: 650px;
+	width: 680px;
 	float: left;
 	
 }
@@ -684,6 +690,8 @@ h3#branding img:hover {
 	margin: 0;
 	text-decoration: none;
 }
+
+
 
 #products .help img{
 	float: left;
@@ -1106,7 +1114,7 @@ footer{
 }
 
 #content .col1{
-	width:250px;
+	/*width:250px;*/
 }
 
 #content .social {
@@ -1404,7 +1412,7 @@ aside #content ul li{
 .promo_slider_wrapper .promo_slider {
 	margin: auto 0 !important;
 	width: 99% !important;
-	height: auto !important;
+	/* height: auto !important;*/
 	padding: 0 !important;
 	
 }

@@ -8,3 +8,30 @@
 [19-Nov-2013 09:51:24] PHP Fatal error:  Call to undefined function  get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/index.php on line 15
 [19-Nov-2013 09:51:25] PHP Fatal error:  Call to undefined function  get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/index.php on line 15
 [08-Apr-2014 19:23:02] PHP Fatal error:  Call to undefined function  get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/index.php on line 15
+[12-Sep-2015 22:19:38 America/Chicago] PHP Fatal error:  Call to undefined function post_password_required() in /home/partybus/public_html/wp-content/themes/SilverLady/comments.php on line 16
+[29-Feb-2016 13:29:41 America/Chicago] PHP Fatal error:  Call to undefined function wp_title() in /home/partybus/public_html/wp-content/themes/SilverLady/header.php on line 50
+[29-Feb-2016 13:29:41 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[29-Feb-2016 13:29:41 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home/partybus/public_html/wp-content/themes/SilverLady/footer.php on line 31
+[29-Feb-2016 13:29:43 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[29-Feb-2016 13:29:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/archive.php on line 15
+[29-Feb-2016 13:29:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/404.php on line 10
+[12-Mar-2016 19:35:57 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[12-Mar-2016 19:35:58 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home/partybus/public_html/wp-content/themes/SilverLady/footer.php on line 31
+[21-May-2016 05:34:26 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/404.php on line 10
+[23-May-2016 10:27:44 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[01-Jun-2016 17:47:24 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/404.php on line 10
+[04-Jul-2016 16:52:29 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[06-Jul-2016 06:29:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[08-Jul-2016 08:54:02 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[08-Jul-2016 09:10:14 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[08-Jul-2016 16:47:26 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[26-Jul-2016 10:09:25 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[26-Jul-2016 10:09:26 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/404.php on line 10
+[01-Aug-2016 19:34:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/archive.php on line 15
+[01-Aug-2016 19:34:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/partybus/public_html/wp-content/themes/SilverLady/author.php on line 10
+[03-Aug-2016 04:04:34 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[06-Aug-2016 00:42:17 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[06-Aug-2016 08:37:24 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376
+[07-Aug-2016 11:59:25 America/Chicago] PHP Fatal error:  Call to undefined function wp_title() in /home/partybus/public_html/wp-content/themes/SilverLady/header.php on line 50
+[07-Aug-2016 11:59:25 America/Chicago] PHP Fatal error:  Call to undefined function bloginfo() in /home/partybus/public_html/wp-content/themes/SilverLady/footer.php on line 31
+[10-Aug-2016 15:25:40 America/Chicago] PHP Fatal error:  Call to undefined function add_filter() in /home/partybus/public_html/wp-content/themes/SilverLady/functions.php on line 376

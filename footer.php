@@ -52,9 +52,12 @@
                 
                </ul>                
               
-               	<div id="footerPaymentIMG">
-                	<img src="<?php bloginfo('template_url'); ?>/images/bbb-logo-vancouver-party-bus.png" alt="party bus service vancouver" class="paymentType" />
-                
+               	<div id="footerPaymentIMG" style="background:#757C82; padding:8px 0"> <div id="footerPaymentIMG" style="margin:0">
+<a href="http://www.bbb.org/mbc/business-reviews/limousine-service/silver-lady-limousine-service-ltd-in-burnaby-bc-117143#sealclick" rel="nofollow" title="Click for the Business Review of Silver Lady Limousine Service Ltd., a Limousine Service in Burnaby BC" target="_blank" style="padding-top:10px;"><img src="<?php bloginfo('template_url'); ?>/images/bbbnew.png" alt="limo vancouver"  style="border: 0;" /></a>
+
+<img style="margin:-5px 0 0 0; vertical-align:middle; display:none" src="" width="74" height="38" alt="bbb Canada Vancouver" /> <img src="<?php bloginfo('template_url'); ?>/images/paymentOptions2.png" alt="limo vancouver services payment" class="paymentType" />
+
+</div>
                 </div>
                 <p>Copyright &copy; <?	
                     //determine copyright year.

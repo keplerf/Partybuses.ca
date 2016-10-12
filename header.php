@@ -162,10 +162,10 @@
     	 	<h3 id="branding">
             	<a href="<?php bloginfo('url'); ?>/" title="Vancouver Party Bus Limo">
                 	<img src="<?php echo get_template_directory_uri(); ?>/images/limo-party-bus-vancouver-logo.png" width="251" height="157" alt="Party Bus Vancouver BC Canada">
-                    <span>Party Bus Vancouver BC Canada </span>
+                    <span>Party Bus Limo Vancouver BC Canada </span>
                 </a>
              </h3>
-             <h3 class="slogan"><strong>Vancouver Party Bus</strong></h3>
+             <h3 class="slogan"><strong>Vancouver Limo Party Bus</strong></h3>
              
           <div class="adressm">
                  <div itemscope itemtype="http://data-vocabulary.org/Organization"> 

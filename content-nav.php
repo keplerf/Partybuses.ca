@@ -20,6 +20,13 @@
                         <li>
                             <a href="<?php bloginfo('url'); ?>/party-bus-vancouver-2/" title="Party Bus vancouver rental">Party Buses</a>
                           <ul class="sub-menu">
+                           <li>
+                                    <a href="<?php bloginfo('url'); ?>/party-bus-vancouver-2/20-passengers-limo-bus/">
+                                    <img width="230" height="74" title="party bus vancouver 36 passengers" alt="party bus vancouver 20 passengers" class="attachment-post-thumbnail wp-post-image" src="http://partybuses.ca/wp-content/uploads/2015/02/limo-truck-vancouver1.png">
+                                    <strong> 20 Passenger</strong>
+                                    <span>Ford F-550 Limo Truck</span></a>
+                                    </li>
+                          
                                     <li>
                                         <a href="<?php bloginfo('url'); ?>/party-bus-vancouver-2/22-passenger-limo-party-bus-vancouver">
                                        		 <img width="230" height="74" title="22-F-650 party bus" alt="20-F-650 party bus" class="attachment-post-thumbnail wp-post-image" src="http://partybuses.ca/wp-content/uploads/2011/10/30-passenger-party-bus-vancouver.png">
@@ -53,6 +60,17 @@
                                     <strong> 35 Passenger</strong>
                                     <span>Ford F-650 Black Pearl Exclusive </span></a>
                                     </li>
+                                    
+                                    <?php /*?>  <li >
+                                    <a href="<?php bloginfo('url'); ?>/party-bus-vancouver-2/50-passenger-party-bus//">
+                                    <img width="230" height="74" title="party bus vancouver 36 passengers" alt="party bus vancouver 50 passengers" class="attachment-post-thumbnail wp-post-image" src="http://partybuses.ca/wp-content/uploads/2015/02/limosine-vancouver.png">
+                                    <strong> 50  Passenger</strong>
+                                     <span>Freightliner Limo <br />
+Party Bus</span>
+                                    </a>
+                                    </li><?php */?>
+                                    
+                                      
                                     
                                     <li>
                                     <a href="<?php bloginfo('url'); ?>/party-bus-vancouver-2/limo-bus-14-passengers-limo/">
